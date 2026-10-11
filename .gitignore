@@ -1,3 +1,6 @@
 .vscode/
 RSS-Aggregator
+*.exe
 .env
+.env.*
+*.log
